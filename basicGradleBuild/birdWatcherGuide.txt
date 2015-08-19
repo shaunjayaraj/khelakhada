@@ -1,0 +1,27 @@
+We are building a system which will allow bird watchers to type in certain keywords, and based on the input the system will suggest potential matches for the birds. 
+
+The main categories of keywords are
+colors: 
+black
+brown
+rufus
+yellow
+
+habitat:
+water
+arboreal
+arial
+
+type:
+predator
+sunbird
+waterfowl
+
+The user typically invokes the program with one or more keywords. Based on the mmatches the program will suggest the following
+A list of potential birds being described by the user
+An error messages saying that the keyword is not valid
+A message saying that there is no bird which has all the following characteristics
+
+The user can put in one or more keywords, but not more than 3 because there are only three main categories.
+
+

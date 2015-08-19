@@ -1,0 +1,6 @@
+purple sunbird;purple;arboreal;sunbird
+sparrow hawk;brown;arial;predator
+moorhen;purple;water;waterfowl
+mallard;yellow;water;waterfowl
+humming bird;rufus;arboreal;sunbird
+
